@@ -1,11 +1,6 @@
 ### <div align="center">I'm Chandrasegar, A Third year Computer Science Undergraduate 👨‍💻  at University of Colombo School of computing. 🚀</div>  
   
-
-- 🔭 I’m currently working on project name RoamSrilanka(https://github.com/Saitharsan24/RoamSrilanka)  
-  
-
-- 🌱 I’m currently learning React and Spring Boot......💻  
-  
+    
 
 - Let's embark on this coding journey together! If you find my work inspiring or useful, don't forget to give it a ⭐️ and follow me to stay updated on my latest projects.
 Thank you for visiting, and happy coding! 😄  
